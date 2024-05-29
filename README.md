@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-                            
+          <h3>I write code &hearts;</h3>
+- <h1>PIYUSH SINGH</h1>                    
 ![omdwd74's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Singh75&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 ![omdwd74's Stats](https://github-readme-stats.vercel.app/api?username=Piyush-Singh75&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 

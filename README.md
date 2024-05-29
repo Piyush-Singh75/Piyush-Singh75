@@ -5,6 +5,11 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="left"> 
+ 
+  <img src="https://komarev.com/ghpvc/?username=Piyush-Singh75&label=Profile%20views&color=0e75b6&style=flat" alt="omji74" />
+ 
+  </p>
           <h3>I write code &hearts;</h3>
 - <h1>PIYUSH SINGH</h1>                    
 ![omdwd74's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Singh75&theme=prussian&show_icons=true&hide_border=false&layout=compact)

@@ -5,10 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<p align="left"> 
- 
-  <img src="https://komarev.com/ghpvc/?username=Piyush-Singh75&label=Profile%20views&color=0e75b6&style=flat" alt="Piyush-Singh75" />
- 
+p align="left"> 
+
+  <img src="https://komarev.com/ghpvc/?username=Piyush-Singh75&label=Profile%20views&color=0e75b6&style=flat" alt="Piyush-Singh75" />
   </p>
           <h3>I write code &hearts;</h3>
 - <h1>PIYUSH SINGH</h1>                    
